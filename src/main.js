@@ -8,7 +8,6 @@ import { createI18n } from "vue-i18n";
 import EN from "./locale/en.json";
 import KH from "./locale/kh.json";
 import 'bootstrap/dist/css/bootstrap.min.css';
-// Vuetify
 import "vuetify/styles";
 import "@mdi/font/css/materialdesignicons.css";
 import { createVuetify } from "vuetify";
