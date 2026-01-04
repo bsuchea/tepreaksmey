@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from "vue";
-import { RouterView, RouterLink } from "vue-router";
+import { RouterView } from "vue-router";
 const open = ref(null);
 
 </script>
